@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Glosbe is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://glosbe.com/
+Glosbe provides an online multilingual dictionary and translation platform offering translations, example sentences, pronunciation recordings, and grammar references across many languages. Users can search for words, view definitions, and access language resources, while developers can integrate its services via APIs such as the cards API.
+
+**Areas:** Dictionary · Translation · Multilingual · Language Learning · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://glosbe.com/)
+- [Blog](https://glosbe.com/su/oc/Blog)
+- [Terms of service](https://glosbe.com/terms)
+- [Privacy policy](https://glosbe.com/privacy-policy)
+- [GitHub](https://github.com/glosbe)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/glosbe/](https://apis.io/providers/glosbe/).
